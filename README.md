@@ -8,4 +8,4 @@ A microfluidic spectrophotometer measusres the intensity of a light beam shone a
 - Learned the basics of electromechanical hardware, using stepper motors and servos.
 - Assmebled PCBs.
 
-(https://github.com/remytr/Microfluidic-Spectrophotometer/blob/main/IMG_4301.jpg?raw=true)
+![Microfluidic-Spectrophotometer](https://github.com/remytr/Microfluidic-Spectrophotometer/blob/main/IMG_4301.jpg?raw=true)
